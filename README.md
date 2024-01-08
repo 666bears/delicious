@@ -1,20 +1,22 @@
 ### 获取地址:
-#### 项目获取地址：https://www.666bear.com/4224.html
+#### 项目获取地址：https://www.666bear.com/5548.html
 #### qq 3289948684
-#### 项目演示地址：https://space.bilibili.com/351929960?spm_id_from=333.1007.0.0
+#### 项目演示地址：https://www.bilibili.com/video/BV1K5411q7Uw/?spm_id_from=333.999.0.0&vd_source=3a4854909d9164817f03f89e98ccf5bf
 #### 接毕业设计和论文
 #### 接网站建设、小程序、H5、APP、各种系统、样式修改等
 
 #### 所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
 
 #### 一、 项目介绍
-基于SpringBoot Vue地方特色美食分享系统
+基于SpringBoot Vue二手家电管理系统
 
 角色：管理员、用户
 
-管理员： 管理员登录进入地方特色美食分享管理系统可以查看系统首页、个人中心、用户管理、美食菜谱管理、菜谱分类管理、美食信息管理、美食分类管理、美食论坛、系统管理等信息
+当游客打开系统的网址后，首先看到的就是首页界面。在这里，游客能够看到二手家电管理平台的导航条显示首页、二手家电、系统公告、后台管理、投诉建议、购物车等。
 
-用户：当游客打开系统的网址后，首先看到的就是首页界面。在这里，游客能够看到地方特色美食分享管理系统的导航条显示首页、美食菜谱、美食信息、美食论坛、系统公告等
+管理员：管理员进入系统主页面，主要功能包括对系统首页、个人中心、用户管理、家电分类管理、二手家电管理、系统管理、订单管理等进行操作。
+
+用户：主要功能包括对系统首页、个人中心、家电分类管理、二手家电管理、系统管理、订单管理等进行操作。
 #### 二、项目技术
 后端： SpringBoot+Mybatis-Plus
 
@@ -35,15 +37,22 @@ JDK版本：1.8
 
 Node版本：14
 #### 四、运行截图（点图片可放大）
-![Snipaste_2023-12-02_23-39-44](https://github.com/666bears/delicious/assets/143094776/2e56b25b-7762-40c1-b900-743076aa1872)
-![Snipaste_2023-12-02_23-39-11](https://github.com/666bears/delicious/assets/143094776/c6b6381c-33cc-4a4b-bac5-35c6704a8adc)
-![Snipaste_2023-12-02_23-09-16](https://github.com/666bears/delicious/assets/143094776/e7b06ba4-454c-4a83-8d1e-41a5084b328a)
-![Snipaste_2023-12-02_23-07-36](https://github.com/666bears/delicious/assets/143094776/1118d301-d32c-47b3-a4e4-6a208d9e43da)
-![1701681051451](https://github.com/666bears/delicious/assets/143094776/f9c33913-3d06-4238-9e76-9693c2a95d09)
 
-![Uploading Snipaste_2023-12-02_23-41-07.png…]()
-![Snipaste_2023-12-02_23-40-34](https://github.com/666bears/delicious/assets/143094776/a043b0d0-c25f-4f07-801c-3e1b0e2357a1)
-![Snipaste_2023-12-02_23-40-10](https://github.com/666bears/delicious/assets/143094776/874f388b-cc50-484f-80e8-f4009c4cdd04)
+![Snipaste_2024-01-07_23-51-16](https://github.com/666bears/delicious/assets/143094776/2180f36f-5933-4ecf-85a3-9b1431a80e35)
+![Snipaste_2024-01-07_23-50-58](https://github.com/666bears/delicious/assets/143094776/88fe5204-efd3-4f4d-8717-945bb7ba4a19)
+![Snipaste_2024-01-07_23-50-33](https://github.com/666bears/delicious/assets/143094776/637e67ee-8823-446f-816a-beff69ac1d59)
+![Snipaste_2024-01-07_23-50-10](https://github.com/666bears/delicious/assets/143094776/c6dcfb8a-eec0-4466-a4b8-84ec7733dc8d)
+![Snipaste_2024-01-07_23-49-40](https://github.com/666bears/delicious/assets/143094776/d135615f-d2ac-4365-a356-15293608b4be)
+![Snipaste_2024-01-07_23-49-26](https://github.com/666bears/delicious/assets/143094776/b8b8d8fb-ea67-49be-a670-2e40eb0b7748)
+![Snipaste_2024-01-07_23-49-16](https://github.com/666bears/delicious/assets/143094776/4e76230d-87e9-4de9-a45b-f7d2cb2114f6)
+![Snipaste_2024-01-07_23-48-53](https://github.com/666bears/delicious/assets/143094776/5eb29b05-547e-4c77-93ac-827be2800313)
+![Snipaste_2024-01-07_23-48-02](https://github.com/666bears/delicious/assets/143094776/af0d8fce-5e32-487c-b9a8-54d7b83feeb8)
+![Snipaste_2024-01-07_23-47-44](https://github.com/666bears/delicious/assets/143094776/3bef5274-fd93-4590-a988-49810729eb61)
+![Snipaste_2024-01-07_23-47-12](https://github.com/666bears/delicious/assets/143094776/1d0ebcaf-f311-4b2c-8e26-b256817398bd)
+![1704642817233](https://github.com/666bears/delicious/assets/143094776/0bebbcc6-8b7b-45e9-a1e5-84935242fadc)
+![1704642712345](https://github.com/666bears/delicious/assets/143094776/ac060888-3b71-46d2-82e5-1c9140c6f336)
+
+
 
 
 
